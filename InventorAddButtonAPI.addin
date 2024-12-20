@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Addin Type="Standard">
+	<!--Created for Autodesk Inventor Version XX.0-->
+	<ClassId>{C960A3CB-2DFB-4B53-A52F-C5508F26D0DE}</ClassId>
+	<ClientId>{C960A3CB-2DFB-4B53-A52F-C5508F26D0DE}</ClientId>
+	<DisplayName>InventorAddButtonAPI</DisplayName>
+	<Description>Custom Ribbon Button</Description>
+	<Assembly>E:\PreranaWorkplace\Autodesk Inventor\Inventor API\InventorAddButtonAPI\bin\Debug\InventorAddButtonAPI.dll</Assembly>
+	<OSType>Win64</OSType>
+	<LoadAutomatically>1</LoadAutomatically>
+	<UserUnloadable>0</UserUnloadable>
+	<Hidden>0</Hidden>
+	<SupportedSoftwareVersionGreaterThan>21..</SupportedSoftwareVersionGreaterThan>
+	<DataVersion>1</DataVersion>
+	<LoadBehavior>2</LoadBehavior>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+	<LoadOnStartUp>1</LoadOnStartUp>
+</Addin>
